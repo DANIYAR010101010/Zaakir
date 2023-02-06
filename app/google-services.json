@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "496135751178",
+    "project_id": "zaakir-pro",
+    "storage_bucket": "zaakir-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496135751178:android:baf1d9084b1e7f60cac1f3",
+        "android_client_info": {
+          "package_name": "com.io.muhsin.zaakir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496135751178-7tb1hq9uq53g5queh6nopgbap9jo16b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.io.muhsin.zaakir",
+            "certificate_hash": "e219adfc1a351a406d30e43b776613864f83cae5"
+          }
+        },
+        {
+          "client_id": "496135751178-ggvn1gb19e7no4ljpd95bl2bs928obvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxLNtpT8JyCd-0B9cPY0mIaL_OuiVLxeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496135751178-ggvn1gb19e7no4ljpd95bl2bs928obvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
