@@ -1,4 +1,7 @@
 package com.io.muhsin.zaakir.ui.menu
 
-class MenuViewModel {
+import androidx.lifecycle.ViewModel
+
+class MenuViewModel:ViewModel() {
+
 }

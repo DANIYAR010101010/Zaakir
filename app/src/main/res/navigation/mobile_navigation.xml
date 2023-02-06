@@ -20,4 +20,14 @@
         android:name="com.io.muhsin.zaakir.ui.promotion.PromotionFragment"
         android:label="fragment_promotion"
         tools:layout="@layout/fragment_promotion" />
+    <fragment
+        android:id="@+id/resultFragment"
+        android:name="com.io.muhsin.zaakir.ui.results.ResultFragment"
+        android:label="fragment_result"
+        tools:layout="@layout/fragment_result" />
+    <fragment
+        android:id="@+id/referenceFragment"
+        android:name="com.io.muhsin.zaakir.ui.menu.reference.ReferenceFragment"
+        android:label="fragment_reference"
+        tools:layout="@layout/fragment_reference" />
 </navigation>
